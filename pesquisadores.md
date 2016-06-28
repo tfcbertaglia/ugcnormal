@@ -9,4 +9,4 @@ title: Pesquisadores
 
 **Coordenadora:** [Maria das Graças Volpe Nunes](http://lattes.cnpq.br/3549648389944031) (gracan at icmc.usp.br).
 
-**Aluno de mestrado:** Thales Felipe Costa Bertaglia ([@tfcbertaglia]).
+**Aluno de mestrado:** Thales Felipe Costa Bertaglia ([@tfcbertaglia](http://tfcbertaglia.github.io)).
