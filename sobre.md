@@ -29,6 +29,28 @@ O uso de um normalizador textual pode melhorar o desempenho de técnicas de PLN.
 * É possível identificar diversos tipos de ruídos e normalizá-los de acordo com a necessidade da tarefa?
 * É possível desenvolver um normalizador que possa ser acoplado ao *pipeline* de tarefas de PLN e adaptado conforme necessidade?
 
+## Objetivos
+
+Desenvolver um normalizador textual flexível de UGC para o
+português brasileiro, capaz de lidar com diferentes domínios e identificar e corrigir ruídos de maneira personalizada à aplicação de PLN desejada. O normalizador proposto poderá ser acoplado 
+a sistemas de PLN e seu funcionamento será flexível de modo a permitir modificações conforme as necessidades da tarefa. 
+
+## Método
+
+Realizar revisão bibliográfica da área, entender e implementar técnicas de identificação e correção de ruídos. Reunir córpus de textos gerados por usuários em diferentes 
+domínios (como blogs e redes sociais) e analisá-los de modo a identificar diferentes tipos de ruídos. Avaliar métodos para identificação automática de ruídos e métodos que efetuem 
+sugestões para correção. Comparar os resultados obtidos com trabalhos já publicados para o português brasileiro e possivelmente com outros idiomas.
+
+## Avaliação
+
+O projeto será avaliado de maneira intrínseca (acurácia de correção) e extrínseca (impacto da normalização em tarefas de PLN). Espera-se que o sistema obtenha
+resultados satisfatórios que confirmem sua utilidade e eficácia de correção.
+
+## Contribuições
+
+Buscamos obter resultados de estado da arte para o português brasileiro, focando em resultados obtidos para outros idiomas com os modelos propostos nos trabalhos recuperados com a revisão bibliográfica.
+Todos os métodos e os recursos desenvolvidos ao decorrer do trabalho serão disponibilizados publicamente no [repositório do projeto](https://github.com/tfcbertaglia/ugcnormal)
+
 * Built for [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
