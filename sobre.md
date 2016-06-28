@@ -22,7 +22,12 @@ devastadores no desempenho dessas ferramentas. E, como consequência, as aplica�
 existentes são criados para domínios restritos ou lidam com uma quantia limitada de ruído.
 
 ## Hipóteses
-Some fun facts about the setup of this project include:
+
+O uso de um normalizador textual pode melhorar o desempenho de técnicas de PLN. Algumas questões de pesquisa:
+
+* É possível desenvolver um normalizador flexível independente de domínio?
+* É possível identificar diversos tipos de ruídos e normalizá-los de acordo com a necessidade da tarefa?
+* É possível desenvolver um normalizador que possa ser acoplado ao *pipeline* de tarefas de PLN e adaptado conforme necessidade?
 
 * Built for [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
