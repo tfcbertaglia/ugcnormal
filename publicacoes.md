@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teste
+title: Publicações
 ---
 
 <p class="message">

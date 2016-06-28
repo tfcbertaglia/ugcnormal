@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre
+title: Pesquisadores
 ---
 
 <p class="message">
