@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            UGCNormal
 tagline:          'Um normalizador textual para o português brasileiro'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Um normalizador textual de conteúdo gerado por usuário para o português brasileiro.'
 url:              tfcbertaglia.github.io/ugcnormal
 baseurl:          /ugcnormal
 
