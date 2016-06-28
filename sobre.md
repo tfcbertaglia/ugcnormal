@@ -11,17 +11,17 @@ title: Sobre
 
 **Título:** Métodos avançados de normalização textual para conteúdo gerado por usuário.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Lacunas
 
-There are currently two themes built on Poole:
+Conteúdos criados por usuários da Web, especialmente em redes sociais, blogs, sites de reclamações etc. têm como característica um descompromisso com a norma culta da língua, apresentando desvios de 
+ortografia, gramática e idiossincrasias próprias do meio digital, como erros de digitação, influência da oralidade na escrita, e vocabulário criado na internet (internetês). 
+A esse tipo de texto é comumente atribuído o termo UGC (user-generated content), cuja tradução é “conteúdo gerado por usuário”. Quando se pensa em processar esses textos para algum fim, 
+entram em cena as ferramentas de Processamento de Língua Natural (PLN), usualmente desenvolvidas para processar textos sem ruídos, ou que tenham sido “corrigidos” anteriormente. 
+Tokenizadores, sentenciadores, taggers, parsers, analisadores semânticos são exemplos de ferramentas de PLN que assumem textos bem-escritos como entrada. Entradas com muitos ruídos causam efeitos 
+devastadores no desempenho dessas ferramentas. E, como consequência, as aplicações que as usam certamente sentirão o mesmo efeito. O processo de identificar e corrigir ruídos em textos é denominado normalização textual. Há escassez de sistemas capazes de efetuar normalização, especialmente de UGC. Os poucos sistemas 
+existentes são criados para domínios restritos ou lidam com uma quantia limitada de ruído.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
+## Hipóteses
 Some fun facts about the setup of this project include:
 
 * Built for [Jekyll](http://jekyllrb.com)
