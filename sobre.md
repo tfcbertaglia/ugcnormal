@@ -49,4 +49,4 @@ resultados satisfatórios que confirmem sua utilidade e eficácia de correção.
 ## Contribuições
 
 Buscamos obter resultados de estado da arte para o português brasileiro, focando em resultados obtidos para outros idiomas com os modelos propostos nos trabalhos recuperados com a revisão bibliográfica.
-Todos os métodos e os recursos desenvolvidos ao decorrer do trabalho serão disponibilizados publicamente no [repositório do projeto](https://github.com/tfcbertaglia/ugcnormal)
+Todos os métodos e os recursos desenvolvidos ao decorrer do trabalho serão disponibilizados publicamente no [repositório do projeto.](https://github.com/tfcbertaglia/ugcnormal)
