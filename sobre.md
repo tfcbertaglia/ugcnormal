@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre
+title: Visão Geral
 ---
 
 <p class="message">
